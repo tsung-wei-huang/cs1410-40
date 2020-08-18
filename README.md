@@ -2,6 +2,8 @@
 
 The course helps you learn how to write programs using the C++ language and gain hands-on programming experience with embedded applications.
 
+<img align="right" width="10%" src="images/course-image.png">
+
 # Class Logistics
 
 + Class (CS 1410-40)
@@ -21,9 +23,28 @@ The course helps you learn how to write programs using the C++ language and gain
 + Teaching Assistant (TA): Dian-Lun Lin
   + Email: Dian-Lun.Lin@utah.edu
   + Office hour: LAB times
-+ Scoring (TBD)
++ Scoring (with 20% bonus)
+  + Weekly programming assignments (PA): 40%
+  + Lab assignment (LA): 40%
+  + Take-home exams: 40%
 + Textbook: No
+
+# Lectures
+
+| Lecture  | Topic | Assignment | Due | 
+| :-:      | :-:    | :-:        | :-: |
+| 08/24/20 | introduction | - | - |
+
+
+# Labs
+
+| Lab      | Topic | 
+| :-:      | :-:    |
+| 08/28/20 | hello-world |
+
+# Grade
 
 ---
 
 [Tsung-Wei Huang]:    https://tsung-wei-huang.github.io/
+
