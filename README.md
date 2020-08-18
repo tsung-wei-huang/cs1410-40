@@ -1,6 +1,4 @@
-# cs1410-40
-
-Welcome to CS 1410-40: Object-Oriented Programming (C++ Section)!
+# Welcome to CS 1410-40: Object-Oriented Programming
 
 The course helps you learn how to write programs using the C++ language and gain hands-on programming experience with real applications.
 
