@@ -6,8 +6,10 @@ The course helps you learn how to write programs using the C++ language and gain
 
 # Class Logistics
 
+We will offer the main class using interactive video conference (IVC) at the scheduled time. Labs will take place physically.
+
 + Class (CS 1410-40)
-  + Location: interactive video conference (IVC) at https://utah.zoom.us/j/2468214418
+  + Location: https://utah.zoom.us/j/2468214418
   + Time: 08:05AM-09:25AM, Monday / Wednesday (excluding holidays)
 + Labs (CS 1410-41, 1410-42, 1410-43, 1410-44, 1410-45)
   + Room: MEB 2555 (computer lab)
@@ -20,20 +22,20 @@ The course helps you learn how to write programs using the C++ language and gain
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
   + Email: tsung-wei.huang@utah.edu
   + Office hour: 1-3PM Wed at MEB 2124 (feel free to schedule additional appointments via email)
-+ Teaching Assistant (TA): Dian-Lun Lin
-  + Email: Dian-Lun.Lin@utah.edu
-  + Office hour: LAB times
++ Teaching Assistant (TA): Dian-Lun Lin and Yasin Zamani
+  + Email: Dian-Lun.Lin@utah.edu and yasin.zamani@gmail.com
+  + Office hour: during LAB
 + Scoring (with 20% bonus)
   + Weekly programming assignments (PA): 40%
   + Lab assignment (LA): 40%
-  + Take-home exams: 40%
+  + Take-home exams (one midterm and one final): 40%
 + Textbook: No
 
 # Lectures
 
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:    | :-:        | :-: |
-| 08/24/20 | introduction | - | - |
+| 08/24/20 | Introduction to Programming | - | - |
 
 
 # Labs
