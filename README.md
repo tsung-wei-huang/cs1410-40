@@ -34,13 +34,14 @@ We will offer the main class using interactive video conference (IVC) at the sch
 # Lectures
 
 | Lecture  | Topic | Assignment | Due | 
-| :-:      | :-:    | :-:        | :-: |
-| 08/24/20 | Introduction to Programming | - | - |
+| :-:      | :-:   | :-:        | :-: |
+| 08/24/20 | [Introduction to Programming](slides/lecture1.pdf) | - | - |
+| 08/27/20 | C++ programming language | PA1 | - |
 
 
 # Labs
 
-| Lab      | Topic | 
+| Lab      | Topic  | 
 | :-:      | :-:    |
 | 08/28/20 | hello-world |
 
