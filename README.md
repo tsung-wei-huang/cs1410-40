@@ -10,18 +10,18 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 + Class (CS 1410-40)
   + Location: https://utah.zoom.us/j/2468214418
-  + Time: 08:05AM-09:25AM, Monday / Wednesday (excluding holidays)
+  + Time: 08:05 AM - 09:25 AM, Monday / Wednesday (excluding holidays)
 + Labs (CS 1410-41, 1410-42, 1410-43, 1410-44, 1410-45)
   + Room: MEB 2555 (computer lab)
   + Time
-    1. Section 1410-41: 09:40AM-10:30AM, Friday
-    2. Section 1410-42: 10:45AM-11:35AM, Friday
-    3. Section 1410-43: 11:50AM-12:40PM, Friday
-    4. Section 1410-44: 12:55PM-01:45PM, Friday
-    5. Section 1410-45: 08:35AM-09:25AM, Friday
+    1. Section 1410-41: 09:40AM-10:30AM, Friday (TA: Dian-Lun Lin)
+    2. Section 1410-42: 10:45AM-11:35AM, Friday (TA: Dian-Lun Lin)
+    3. Section 1410-43: 11:50AM-12:40PM, Friday (TA: Yasin Zamani)
+    4. Section 1410-44: 12:55PM-01:45PM, Friday (TA: Yasin Zamani)
+    5. Section 1410-45: 08:35AM-09:25AM, Friday (TA: Dian-Lun Lin)
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
   + Email: tsung-wei.huang@utah.edu
-  + Office hour: 1-3PM Wed at MEB 2124 (feel free to schedule additional appointments via email)
+  + Office hour: 1-3 PM Wed at MEB 2124 (feel free to schedule additional appointments via email)
 + Teaching Assistant (TA): Dian-Lun Lin and Yasin Zamani
   + Email: Dian-Lun.Lin@utah.edu and yasin.zamani@gmail.com
   + Office hour: during LAB
@@ -36,7 +36,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
 | 08/24/20 | [Introduction to Programming](slides/lecture1.pdf) | - | - |
-| 08/27/20 | C++ programming language | PA1 | - |
+| 08/27/20 | Basic I/O and Expression | [PA1](PAs/PA1.pdf) | - |
 
 
 # Labs
