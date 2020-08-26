@@ -21,7 +21,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
     5. Section 1410-45: 08:35AM-09:25AM, Friday (TA: Dian-Lun Lin)
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
   + Email: tsung-wei.huang@utah.edu
-  + Office hour: 1-3 PM Wed at MEB 2124 (feel free to schedule additional appointments via email)
+  + Office hour: 1-3 PM Wed at https://utah.zoom.us/j/2468214418 or MEB 2124 
 + Teaching Assistant (TA): Dian-Lun Lin and Yasin Zamani
   + Email: Dian-Lun.Lin@utah.edu and yasin.zamani@gmail.com
   + Office hour: during LAB
