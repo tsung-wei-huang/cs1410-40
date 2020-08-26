@@ -36,7 +36,9 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | Lecture  | Topic | Assignment | Due | 
 | :-:      | :-:   | :-:        | :-: |
 | 08/24/20 | [Introduction to Programming](slides/lecture1.pdf) | - | - |
-| 08/27/20 | Basic I/O and Expression | [PA1](PAs/PA1.pdf) | - |
+| 08/26/20 | [Basic C++ I/O and Expression](slides/lecture2.pdf) | [PA1](PAs/PA1.pdf) | - |
+| 08/31/20 | Conditional Statements | - | - |
+| 09/02/20 | Iteration | PA2 | PA1 |
 
 
 # Labs
