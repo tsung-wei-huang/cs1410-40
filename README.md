@@ -45,7 +45,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 
 | Lab      | Topic  | 
 | :-:      | :-:    |
-| 08/28/20 | hello-world |
+| 08/28/20 | [hello-world](slides/lab1.pdf) |
 
 # Grade
 
