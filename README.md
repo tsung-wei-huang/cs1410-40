@@ -25,7 +25,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 + Teaching Assistant (TA): Dian-Lun Lin and Yasin Zamani
   + Email: Dian-Lun.Lin@utah.edu and yasin.zamani@gmail.com
   + Office hour: 
-    + Dian-Lun Lin (Luan) 12:00PM-1300PM Thursday https://utah.zoom.us/j/94816252792
+    + Dian-Lun Lin (Luan) 12:00PM-13:00PM Thursday https://utah.zoom.us/j/94816252792
 + Scoring (with 20% bonus)
   + Weekly programming assignments (PA): 40%
   + Lab assignment (LA): 40%
