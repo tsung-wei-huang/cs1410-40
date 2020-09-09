@@ -51,6 +51,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | :-:      | :-:    |
 | 08/28/20 | [hello-world](slides/lab1.pdf) |
 | 09/04/20 | [if-else and while](slides/lab2.pdf) |
+| 09/11/20 | [if-else and while (more practice)](slides/lab3.pdf) |
 
 # Grade
 
