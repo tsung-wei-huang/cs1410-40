@@ -44,6 +44,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/07/20 | No Class (Labor Day) | - | - |
 | 09/09/07 | [Control Statements - Part II](slides/lecture5.pdf) | - | - |
 | 09/09/14 | [Control Statements - Part III](slides/lecture6.pdf) | - | - |
+| 09/09/16 | [Control Statements - Part IV](slides/lecture7.pdf) | [PA3](PAs/PA3.docx) | - |
 
 
 # Labs
