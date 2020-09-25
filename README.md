@@ -42,9 +42,11 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 08/31/20 | [Arithmetic and Conditional Expressions](slides/lecture3.pdf) | - | - |
 | 09/02/20 | [Control Statements – Part I](slides/lecture4.pdf) | [PA2](PAs/PA2.docx) | PA1 |
 | 09/07/20 | No Class (Labor Day) | - | - |
-| 09/09/07 | [Control Statements - Part II](slides/lecture5.pdf) | - | - |
-| 09/09/14 | [Control Statements - Part III](slides/lecture6.pdf) | - | - |
-| 09/09/16 | [Control Statements - Part IV](slides/lecture7.pdf) | [PA3](PAs/PA3.docx) | - |
+| 09/09/20 | [Control Statements - Part II](slides/lecture5.pdf) | - | - |
+| 09/14/20 | [Control Statements - Part III](slides/lecture6.pdf) | - | - |
+| 09/16/20 | [Control Statements - Part IV](slides/lecture7.pdf) | [PA3](PAs/PA3.docx) | PA2 |
+| 09/21/20 | [Control Statements - Part V](slides/lecture8.pdf) | - | - |
+| 09/23/20 | [Function and Recursion - Part I](slides/lecture9.pdf) | [PA4](PAs/PA4.docx) | PA3 |
 
 
 # Labs
