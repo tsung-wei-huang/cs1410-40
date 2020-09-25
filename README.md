@@ -55,6 +55,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/04/20 | [if-else and while](slides/lab2.pdf) |
 | 09/11/20 | [if-else and while (more practice)](slides/lab3.pdf) |
 | 09/18/20 | [while, do while, and for](slides/lab4.pdf) |
+| 09/25/20 | [function](slides/lab5.pdf) |
 
 You can see the recorded videos [here](https://drive.google.com/drive/folders/1c9fMvwfvJnQfWsZUFm2NRy-xG5Djwnjw?usp=sharing).
 
