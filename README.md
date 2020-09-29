@@ -95,7 +95,7 @@ Again, we summarize the office hours during the midterm week:
   + Dian-Lun Lin at [https://utah.zoom.us/j/94816252792](https://utah.zoom.us/j/94816252792)
     1. 12-13 PM, Thu, 10/15
     2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
-  + Yasin Zamani at [https://utah.zoom.us/j/94816252792](https://utah.zoom.us/j/94816252792)
+  + Yasin Zamani at [https://utah.zoom.us/j/99070521933](https://utah.zoom.us/j/99070521933)
     1. 14-15 PM, Mon, 10/12
     2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
 
