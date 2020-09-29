@@ -50,8 +50,6 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/28/20 | [Function and Recursion - Part II](slides/lecture10.pdf) | - | - |
 | 09/30/20 | [Array and Vector - Part I](slides/lecture11.pdf) | [PA5](PAs/PA5.docs) | PA4 by 23:59 10/2 |
 
-
-
 # Labs
 
 | Lab      | Topic  | 
@@ -63,6 +61,28 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/25/20 | [function](slides/lab5.pdf) |
 
 You can see the recorded videos [here](https://drive.google.com/drive/folders/1c9fMvwfvJnQfWsZUFm2NRy-xG5Djwnjw?usp=sharing).
+
+# Exams
+
+## Midterm 1: 10/12 8:05 AM - 10/17 23:59 PM (one week)
+
+We do NOT have lectures or LAB sessions on the midterm week (10/12-10/17) but hold
+extra office hour at the scheduled class and lab times to help you with
+any questions (**not solutions**) about the midterm. 
+There are a couple of things to know:
+
+  + Midterm will be a take-home exam
+  + Midterm will cover both concept and programming questions we have covered so far
+  + Midterm will count for *10-15%* of your final grade (the actual ratio may be adjusted)
+
+You are completely free to:
+  + use the internet resources
+  + discuss the questions with your friends
+
+However, this doesn't mean you can simply copy the solutions from others.
+We trust you but don't take it for granted. 
+Ultimately, it is your knowledge and career, not ours.
+Never violate the [rules of academic integrity](https://regulations.utah.edu/academics/6-400.php). 
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
