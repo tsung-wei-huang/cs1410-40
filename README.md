@@ -48,7 +48,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/21/20 | [Control Statements - Part V](slides/lecture8.pdf) | - | - |
 | 09/23/20 | [Function and Recursion - Part I](slides/lecture9.pdf) | [PA4](PAs/PA4.docx) | PA3 |
 | 09/28/20 | [Function and Recursion - Part II](slides/lecture10.pdf) | - | - |
-| 09/30/20 | [Array and Vector - Part I](slides/lecture10.pdf) | [PA5](PAs/PA5.docs) | PA4 by 23:59 10/2 |
+| 09/30/20 | [Array and Vector - Part I](slides/lecture11.pdf) | [PA5](PAs/PA5.docs) | PA4 by 23:59 10/2 |
 
 
 
