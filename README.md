@@ -99,6 +99,9 @@ Again, we summarize the office hours during the midterm week:
     1. 14-15 PM, Mon, 10/12
     2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
 
+## Midterm 2: TBD
+
+## Final Exam: TBD
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
