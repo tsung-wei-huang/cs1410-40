@@ -30,7 +30,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 + Scoring (with 20% bonus)
   + Weekly programming assignments (PA): 40%
   + Lab assignment (LA): 40%
-  + Take-home exams (one midterm and one final): 40%
+  + Take-home exams (1-2 midterms and 1 final): 40%
 + Textbook: No
 
 # Lectures
@@ -64,25 +64,41 @@ You can see the recorded videos [here](https://drive.google.com/drive/folders/1c
 
 # Exams
 
-## Midterm 1: 10/12 8:05 AM - 10/17 23:59 PM (one week)
+## Midterm 1: 10/12 8:05 AM - 10/18 23:59 PM
 
-We do NOT have lectures or LAB sessions on the midterm week (10/12-10/17) but hold
-extra office hour at the scheduled class and lab times to help you with
-any questions (**not solutions**) about the midterm. 
+We will have our first midterm on the week of 10/12.
+We do NOT have lectures or LAB sessions on that week (10/12-10/18) 
+but will hold extra office hours at the scheduled class and lab times 
+to help you with any questions (***not solutions***) about the exam. 
 There are a couple of things to know:
 
-  + Midterm will be a take-home exam
-  + Midterm will cover both concept and programming questions we have covered so far
-  + Midterm will count for *10-15%* of your final grade (the actual ratio may be adjusted)
+  + Midterm will be take-home
+  + Midterm will cover both concept and programming questions we have lectured so far
+  + Midterm will count for *10-15%* of your final grade (PS: the actual ratio may be adjusted but at least 10%)
 
-You are completely free to:
+We believe learning how to find solutions using the internet and your social network is important in today's software engineering landscape.
+As a result, you are completely free to:
   + use the internet resources
   + discuss the questions with your friends
+  + talk to TAs and the instructor at the office hours to clarify your questions
 
 However, this doesn't mean you can simply copy the solutions from others.
 We trust you but don't take it for granted. 
 Ultimately, it is your knowledge and career, not ours.
 Never violate the [rules of academic integrity](https://regulations.utah.edu/academics/6-400.php). 
+
+Again, we summarize the office hours during the midterm week:
+
+  + Prof. Tsung-Wei Huang at [https://utah.zoom.us/j/2468214418](https://utah.zoom.us/j/2468214418)
+    1. 8:05-9:25 AM, Mon, 10/12
+    2. 8:05-9:25 AM and 2-3 PM, Wed, 10/14
+  + Dian-Lun Lin at [https://utah.zoom.us/j/94816252792](https://utah.zoom.us/j/94816252792)
+    1. 12-13 PM, Thu, 10/15
+    2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
+  + Yasin Zamani at [https://utah.zoom.us/j/94816252792](https://utah.zoom.us/j/94816252792)
+    1. 14-15 PM, Mon, 10/12
+    2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
+
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
