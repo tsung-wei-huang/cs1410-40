@@ -62,6 +62,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/18/20 | [while, do while, and for](slides/lab4.pdf) |
 | 09/25/20 | [function](slides/lab5.pdf) |
 | 10/01/20 | [recursion](slides/lab6.pdf) |
+| 10/09/20 | [vector](slides/lab7.pdf) |
 
 You can see the recorded videos [here](https://drive.google.com/drive/folders/1c9fMvwfvJnQfWsZUFm2NRy-xG5Djwnjw?usp=sharing).
 
