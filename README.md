@@ -52,6 +52,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/05/20 | [Array and Vector - Part II](slides/lecture12.pdf) | - | - |
 | 10/07/20 | [Array and Vector - Part III](slides/lecture13.pdf) | - | PA5 by 23:59 10/9 |
 | 10/12/20 | [Midterm 1](midterm/midterm-1.docx) | - | - |
+| 10/19/20 | [Pointer - Part I](slides/lecture14.pdf) | - | - |
 
 # Labs
 
