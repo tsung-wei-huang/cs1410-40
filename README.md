@@ -54,6 +54,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/12/20 | [Midterm 1](midterm/midterm-1.docx) | - | - |
 | 10/19/20 | [Pointer - Part I](slides/lecture14.pdf) | - | - |
 | 10/21/20 | [Pointer - Part II](slides/lecture15.pdf) | [PA6](PAs/PA6.docx) |  |
+| 10/26/20 | [Dynamic Memory Allocation](slides/lecture16.pdf) | - |  |
+| 10/28/20 | [Sequential File Access](slides/lecture17.pdf) | [PA7](PAs/PA7.docx) | PA6 by 23:59 10/30 |
 
 # Labs
 
