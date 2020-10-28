@@ -69,6 +69,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/01/20 | [recursion](slides/lab6.pdf) |
 | 10/09/20 | [vector](slides/lab7.pdf) |
 | 10/23/20 | [midterm review](slides/lab8.pdf) |
+| 10/30/20 | [pointers and arrays](slides/lab9.pdf) |
 
 You can see the recorded videos [here](https://drive.google.com/drive/folders/1c9fMvwfvJnQfWsZUFm2NRy-xG5Djwnjw?usp=sharing).
 
