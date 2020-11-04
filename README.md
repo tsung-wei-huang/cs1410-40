@@ -56,6 +56,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 10/21/20 | [Pointer - Part II](slides/lecture15.pdf) | [PA6](PAs/PA6.docx) |  |
 | 10/26/20 | [Dynamic Memory Allocation](slides/lecture16.pdf) | - |  |
 | 10/28/20 | [Sequential File Access](slides/lecture17.pdf) | [PA7](PAs/PA7.docx) | PA6 by 23:59 10/30 |
+| 11/02/20 | [Classes - Part I](slides/lecture18.pdf) | - | - |
+| 11/04/20 | [Classes - Part II](slides/lecture19.pdf) | [PA8](PAs/PA8.docx) | PA7 by 23:59 11/06 |
 
 # Labs
 
