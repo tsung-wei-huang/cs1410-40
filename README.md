@@ -51,7 +51,7 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 09/30/20 | [Array and Vector - Part I](slides/lecture11.pdf) | [PA5](PAs/PA5.docx) | PA4 by 23:59 10/2 |
 | 10/05/20 | [Array and Vector - Part II](slides/lecture12.pdf) | - | - |
 | 10/07/20 | [Array and Vector - Part III](slides/lecture13.pdf) | - | PA5 by 23:59 10/9 |
-| 10/12/20 | [Midterm 1](midterm/midterm-1.docx) | - | - |
+| 10/12/20 | [Midterm](midterm/midterm-1.docx) | - | - |
 | 10/19/20 | [Pointer - Part I](slides/lecture14.pdf) | - | - |
 | 10/21/20 | [Pointer - Part II](slides/lecture15.pdf) | [PA6](PAs/PA6.docx) |  |
 | 10/26/20 | [Dynamic Memory Allocation](slides/lecture16.pdf) | - |  |
@@ -60,6 +60,8 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/04/20 | [Classes - Part II](slides/lecture19.pdf) | [PA8](PAs/PA8.docx) | PA7 by 23:59 11/06 |
 | 11/09/20 | [Classes - Part III](slides/lecture20.pdf) | - | - |
 | 11/11/20 | same as 11/09 | [PA9](PAs/PA9.docx) | PA8 by 23:59 11/13 |
+| 11/16/20 | [Classes - Part IV](slides/lecture21.pdf) | - | - |
+| 11/18/20 | same as 11/16 | - | - |
 
 # Labs
 
@@ -82,7 +84,7 @@ You can see the recorded videos [here](https://drive.google.com/drive/folders/1c
 
 # Exams
 
-## Midterm 1: 10/12 8:05 AM - 10/18 23:59 PM
+## Midterm: 10/12 8:05 AM - 10/18 23:59 PM
 
 We will have our first midterm on the week of 10/12.
 We do NOT have lectures or LAB sessions on that week (10/12-10/18) 
@@ -117,9 +119,13 @@ Again, we summarize the office hours during the midterm week:
     1. 14-15 PM, Mon, 10/12
     2. 8:35-13:45 PM, Fri, 10/16 (regular LAB sessions)
 
-## Midterm 2: TBD
+## Final Exam: 11/30 8:05 AM - 12/06 23:59 PM
 
-## Final Exam: TBD
+We will have our final exam 11/30.
+We still have lectures on 11/30 and 12/2,
+but there won't be any more lab sessions to attend.
+The formation of final exam is the same as the midterm.
+
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
