@@ -129,7 +129,7 @@ We still have lectures on 11/30 and 12/2,
 but there won't be any more lab sessions to attend.
 The formation of final exam is the same as the midterm.
 
-The final exam is available [here](final/final.docx)
+The final exam is available [here](final/final.docx) and is due on 12/2 (23:59 PM).
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
