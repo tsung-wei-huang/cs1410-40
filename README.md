@@ -62,6 +62,9 @@ We will offer the main class using interactive video conference (IVC) at the sch
 | 11/11/20 | same as 11/09 | [PA9](PAs/PA9.docx) | PA8 by 23:59 11/13 |
 | 11/16/20 | [Classes - Part IV](slides/lecture21.pdf) | - | - |
 | 11/18/20 | same as 11/16 | - | - |
+| 11/23/20 | [Stack and Queue](slides/lecture22.pdf) | - | - |
+| 11/25/20 | [Struct](slides/struct.pdf) | - | - |
+| 11/30/20 | [Final Exam](final/final.docx) | - | - |
 
 # Labs
 
@@ -126,6 +129,7 @@ We still have lectures on 11/30 and 12/2,
 but there won't be any more lab sessions to attend.
 The formation of final exam is the same as the midterm.
 
+The final exam is available [here](final/final.docx)
 
 # Grade
 You can see your score [here](https://docs.google.com/spreadsheets/d/1r_s8rTj0ZN3Cjue0thxIUwbBcUs3E3MJUH_3nHDccRE/edit?usp=sharing).
